@@ -27,7 +27,11 @@ Scholar's Hub is a desktop application that helps manage student records and let
 
 1. Make sure Python 3 is installed
 2. Download the file `scholars_hub_gui.py`
-3. Open terminal and run:python scholars_hub_gui.py
+3. Open terminal and run:
+
+```bash
+python scholars_hub_gui.py
+```
 
 No extra libraries needed — all built-in!
 
@@ -42,12 +46,13 @@ No extra libraries needed — all built-in!
 
 ## Project Structure
 
+```
 scholars_hub/
-│
 ├── scholars_hub_gui.py   # Main application file
 ├── students.json         # Auto-created when you add students
 └── report.txt            # Auto-created when you export report
+```
 
 ## Author
 
-**Muhammad Uzair Hussain**
+**Muhammad Uzair Hussain**  
